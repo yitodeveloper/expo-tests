@@ -2444,6 +2444,13 @@ expo-asset@~8.1.7:
     path-browserify "^1.0.0"
     url-parse "^1.4.4"
 
+expo-battery@~2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/expo-battery/-/expo-battery-2.2.1.tgz#0643dc3803e33fe324a1a0e8990b6d7a4343009d"
+  integrity sha512-POb9qkXP/TQ5P2Aah9Xyk+E/7JwHBJpBNDXNB0NGGSiDhgdNAHAQm0kYLkp6tTYqki8hJOdntHbRPnS6sq/H4Q==
+  dependencies:
+    fbjs "1.0.0"
+
 expo-constants@~9.1.1:
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-9.1.1.tgz#bca141ee3d4550e308798128f66c6d9c6a206ca1"
